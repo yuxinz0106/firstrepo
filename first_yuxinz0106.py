@@ -16,3 +16,5 @@ print("first repo from yuxinz0106")
 print("new change")
 
 print("hungry")
+
+print("bad weather")
