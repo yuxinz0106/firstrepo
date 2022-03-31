@@ -18,3 +18,5 @@ print("new change")
 print("hungry")
 
 print("bad weather")
+
+print('Excited about the Restaurant Week!')
